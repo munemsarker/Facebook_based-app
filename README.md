@@ -1,36 +1,13 @@
-# Frave Social - Social Media
+### Facebook based mobile application
 
-Frave Developer
-
-### Youtube Channel
-
-[Frave Developer](https://cutt.ly/pckBg9D)
-
-### Video Yotube
-
-[Flutter - Social Media App | Nodejs and Mysql | Flutter Project](https://youtu.be/QurHn2Bno7I)
-
-### Social Media
-
-<a href="https://www.instagram.com/frave_developer"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
-
-### Donate
-
-<a href="https://www.buymeacoffee.com/frave"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"></a>
+This project is a mobile application which actually looks like #Facebook
 
 
-## Flutter
+If you face any problem with this project or repositories just contact with me on 
+- facebook: www.facebook.com/munemuddin.engineer
+- instagram: www.instagram.com/munemsarker
 
-- Flutter bloc
-- Socket io client
-- Push notifications (Next)
-- http
-
-## Backend - NodeJs
-
-- https://github.com/Frave07/Social-Media-Backend
-
----
+.
 
 ## Screenshots
 
